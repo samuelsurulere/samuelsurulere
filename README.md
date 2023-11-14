@@ -1,7 +1,13 @@
 ### Hi there, my name is **Samuel** 👋!
-I completed a PhD in Applied Mathematics and recently transitioned to Data Science. During my learning process, I developed strong interests in developing data-driven solutions. Learning about statistical modeling, supervised and unsupervised learning really piqued my interest. I am currently working on learning and building a project in LLMs, recommender systems. After completing those, I intend to work on a project related to different unstructured data and possibly graph data. Despite being three months old in working with data related tools, I highlight some of the projects I have completed at a coding bootcamp in my pinned repositories below this profile intro. Some of those projects encompass using relational database (PostgreSQL) to acquire insights from raw unprocessed data, data analytics and visualization using Tableau software, statistical modeling, supervised learning and unsupervised learning using various python libraries.
+<center> I completed a PhD in Applied Mathematics (back in early 2021) and recently transitioned to Data Science. During my learning process, I developed strong interests in developing data-driven solutions. Learning about statistical modeling, supervised and unsupervised learning really piqued my interest. I am currently working on learning and building a project in LLMs, recommender systems. After completing those, I intend to work on a project related to different unstructured data and possibly graph data. <center/>
+
+#### Data Science journey so far...
+Despite being three months old in working with data related tools, I highlight some of the projects I have completed at a coding bootcamp in my pinned repositories below this profile intro. Some of those projects encompass using relational database (PostgreSQL) to acquire insights from raw unprocessed data, data analytics and visualization using Tableau software, statistical modeling, supervised learning and unsupervised learning using various python libraries.
 
 The work I am most proud of is the capstone project which was the classification of traffic road signs in Alberta province using one shot learning technique and transfer learning.
+
+### Previous professional background
+All my previous professional experience has been in academia (teaching, lecturing, tutoring or researching). I am currently a casual Math & Science instructor at Momentum Calgary and very much open to new adventures.
 
 ### Tech stack
 These are some of the tech stacks I have learned and have proficiency in:
@@ -20,7 +26,7 @@ These are some of the tech stacks I have learned and have proficiency in:
   
 </p>
 
-### Types of positions
+### Future roles
 I am currently open to positions and will like data science roles, machine learning roles. AI Engineer roles or ML Engineer roles can also be an option for me.
 
 ### GitHub activity
