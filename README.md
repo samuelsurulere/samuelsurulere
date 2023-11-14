@@ -1,4 +1,4 @@
-### Hi there, I am **Samuel Surulere** 👋
+### Hi there, my name is **Samuel** 👋!
 
 I completed a PhD in Applied Mathematics and recently transitioned to Data Science by attending an immersive coding bootcamp. Here, I highlight some of the projects I have worked on being only three months old in data.
 
@@ -17,5 +17,9 @@ I completed a PhD in Applied Mathematics and recently transitioned to Data Scien
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="45" height="45"/>
   
 </p>
+
+### GitHub activity
+[![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=samuelsurulere)](https://github.com/samuelsurulere)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsurulere&layout=compact)](https://github.com/samuelsurulere)
 
 > PS... This page is currently a work in progress. Thank you for your patience!
