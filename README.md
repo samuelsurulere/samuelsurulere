@@ -27,7 +27,7 @@ These are some of the tech stacks I have learned and have proficiency in:
 </p>
 
 ### Future roles
-I am currently open to positions and will like data science roles, machine learning roles. AI Engineer roles or ML Engineer roles can also be an option for me.
+I am currently open to positions and will like data science roles, machine learning roles. AI Engineer roles or ML Engineer roles can also be an option for me. I bring with me a solid analytical background, critical problem solving skills, the ability to solve complex problem (with little or no supervision), independent research capabilities. 
 
 ### GitHub activity
 [![Profile stats](https://github-readme-stats.vercel.app/api?username=samuelsurulere)](https://github.com/samuelsurulere)
