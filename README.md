@@ -17,4 +17,6 @@ I completed a PhD in Applied Mathematics and recently transitioned to Data Scien
 
 <br/>
 
+![Snake animation](https://github.com/samuelsurulere/samuelsurulere/blob/output/github-contribution-grid-snake.svg)
+
 > PS... This page is currently a work in progress. Thank you for your patience!
