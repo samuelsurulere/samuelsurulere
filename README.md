@@ -19,7 +19,8 @@ I completed a PhD in Applied Mathematics and recently transitioned to Data Scien
 </p>
 
 ### GitHub activity
-[![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=samuelsurulere)](https://github.com/samuelsurulere)
+[![Profile stats](https://github-readme-stats.vercel.app/api?username=samuelsurulere)](https://github.com/samuelsurulere)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsurulere&layout=compact)](https://github.com/samuelsurulere)
 
 > PS... This page is currently a work in progress. Thank you for your patience!
