@@ -9,13 +9,12 @@ I completed a PhD in Applied Mathematics and recently transitioned to Data Scien
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pytorch/pytorch-original-wordmark.svg" alt="pytorch" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original.svg" alt="sqlite" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   
 </p>
 
