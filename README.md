@@ -37,4 +37,5 @@ I am currently open to positions and will like data science roles, machine learn
 
 > PS... This page is currently a work in progress. Thank you for your patience!
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsamuelsurulere&label=Visitors%20count&countColor=%23263759)
 ![Visitor Count](https://profile-counter.glitch.me/samuelsurulere/count.svg)
