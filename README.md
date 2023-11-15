@@ -36,3 +36,5 @@ I am currently open to positions and will like data science roles, machine learn
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsurulere&layout=compact)](https://github.com/samuelsurulere)
 
 > PS... This page is currently a work in progress. Thank you for your patience!
+
+![Visitor Count](https://profile-counter.glitch.me/samuelsurulere/count.svg)
