@@ -4,7 +4,7 @@ I completed a PhD in Applied Mathematics (back in early 2021) and recently trans
 #### Data Science journey so far...
 Despite being three months old in working with data related tools, I highlight some of the projects I have completed at a coding bootcamp in my pinned repositories below this profile intro. Some of those projects encompass using relational database (PostgreSQL) to acquire insights from raw unprocessed data, data analytics and visualization using Tableau software, statistical modeling, supervised learning and unsupervised learning using various python libraries.
 
-The work I am most proud of is the capstone project which was the classification of traffic road signs in Alberta province using one shot learning technique and transfer learning.
+The work I am most proud of is the capstone project which was the classification of traffic road signs in Alberta province using one shot learning technique and transfer learning. You can view the repository [here](https://github.com/samuelsurulere/image-classification-of-road-signs/). Another project I really enjoyed working on was the predictive policing model for crime hotspots in Los Angeles. My partner and I wanted to include a predictive policing model in our midterm project and didn't have any exposure to multiple multi-class categorical features. It was a steep learning curve which you can view [here](https://github.com/vangalasusmi/Mid-term-Project).
 
 ### Previous professional background
 All my previous professional experience has been in academia (teaching, lecturing, tutoring or researching). I am currently a casual Math & Science instructor at Momentum Calgary and very much open to new adventures.
@@ -35,6 +35,6 @@ I am currently open to positions and will like data science roles, machine learn
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsurulere&layout=compact)](https://github.com/samuelsurulere)
 
-> PS... This page is currently a work in progress. Thank you for your patience!
-
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsamuelsurulere&label=Visitors&countColor=%23263759)
+
+> PS... This page is currently a work in progress. Thank you for your patience!
