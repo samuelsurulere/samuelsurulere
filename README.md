@@ -1,4 +1,4 @@
-### Hi there, my name is **Samuel** 👋!
+### Hi there, my name is **Samuel** 👋! It is a delight to have you visiting.
 I completed a PhD in Applied Mathematics (back in early 2021) and recently transitioned to Data Science. During my learning process, I developed strong interests in developing data-driven solutions. Learning about statistical modeling, supervised and unsupervised learning really piqued my interest. I am currently working learning and building a project in NLP, LLMs, recommender systems. After completing those, I intend to work on a project related to DevOPs, MLOPs, other unstructured data and possibly graph data.
 
 #### Data Science journey so far...
@@ -37,4 +37,4 @@ I am currently open to positions and will like data science roles, machine learn
 
 > PS... This page is currently a work in progress. Thank you for your patience!
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsamuelsurulere&label=Visitors%20count&countColor=%23263759)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsamuelsurulere&label=Visitors&countColor=%23263759)
