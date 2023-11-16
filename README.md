@@ -26,9 +26,9 @@ These are some of the tech stacks I have learned and have proficiency in:
   
 </p>
 
-#### Let's connect through socials
+#### Let's connect...
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/samuelsurulere/)">
+  <a href="[https://www.linkedin.com/in/samuelsurulere/](https://www.linkedin.com/in/samuelsurulere/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
