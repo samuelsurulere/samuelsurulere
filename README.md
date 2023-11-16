@@ -26,13 +26,6 @@ These are some of the tech stacks I have learned and have proficiency in:
   
 </p>
 
-#### Let's connect...
-<div id="badges">
-  <a href="[https://www.linkedin.com/in/samuelsurulere/](https://www.linkedin.com/in/samuelsurulere/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 ### Future roles
 I am currently open to positions and will like data science roles, machine learning roles. AI Engineer roles or ML Engineer roles can also be an option for me. I bring with me a solid analytical background, critical problem solving skills, the ability to solve complex problem (with little or no supervision), independent research capabilities. 
 
@@ -50,5 +43,3 @@ I am currently open to positions and will like data science roles, machine learn
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsurulere&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsamuelsurulere&label=Visitors&countColor=%23263759)
-
-> PS... This page is currently a work in progress. Thank you for your patience!
