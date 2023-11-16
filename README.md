@@ -22,16 +22,24 @@ These are some of the tech stacks I have learned and have proficiency in:
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original.svg" alt="sqlite" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45" />
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45" />        
   
 </p>
+
+#### Let's connect through socials
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/samuelsurulere/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 ### Future roles
 I am currently open to positions and will like data science roles, machine learning roles. AI Engineer roles or ML Engineer roles can also be an option for me. I bring with me a solid analytical background, critical problem solving skills, the ability to solve complex problem (with little or no supervision), independent research capabilities. 
 
 ### GitHub activity
 [![Profile stats](https://github-readme-stats.vercel.app/api?username=samuelsurulere)](https://github.com/samuelsurulere)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samuelsurulere&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsurulere&layout=compact)](https://github.com/samuelsurulere)
 
