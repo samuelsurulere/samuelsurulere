@@ -37,11 +37,17 @@ These are some of the tech stacks I have learned and have proficiency in:
 I am currently open to positions and will like data science roles, machine learning roles. AI Engineer roles or ML Engineer roles can also be an option for me. I bring with me a solid analytical background, critical problem solving skills, the ability to solve complex problem (with little or no supervision), independent research capabilities. 
 
 ### GitHub activity
+<! --
 [![Profile stats](https://github-readme-stats.vercel.app/api?username=samuelsurulere)](https://github.com/samuelsurulere)
+-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samuelsurulere&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<! --
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsurulere&layout=compact)](https://github.com/samuelsurulere)
+-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsurulere&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsamuelsurulere&label=Visitors&countColor=%23263759)
 
