@@ -6,7 +6,7 @@ Despite being three months old in working with data related tools, I highlight s
 
 The work I am most proud of is the capstone project which was the classification of traffic road signs in Alberta province using one shot learning technique and transfer learning. You can view the repository [here](https://github.com/samuelsurulere/image-classification-of-road-signs/). Another project I really enjoyed working on was the predictive policing model for crime hotspots in Los Angeles. My partner and I wanted to include a predictive policing model in our midterm project and didn't have any exposure to multiple multi-class categorical features. It was a steep learning curve which you can view [here](https://github.com/vangalasusmi/Mid-term-Project).
 
-### Previous professional background
+### Previous background
 All my previous professional experience has been in academia (teaching, lecturing, tutoring or researching). I am currently a casual Math & Science instructor at Momentum Calgary and very much open to new adventures.
 
 ### Tech stack
