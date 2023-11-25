@@ -1,16 +1,16 @@
 ### Hi there, my name is **Samuel** 👋! It is a delight to have you visiting.
 
-I completed a PhD in Applied Mathematics (back in early 2021) and recently transitioned to Data Science. During my learning process, I developed strong interests in developing data-driven solutions. Learning about statistical modeling, supervised and unsupervised learning really piqued my interest. I am currently working learning and building a project in NLP (sentiment analysis). After that I plan to work on recommender systems, and then a project on LLMs. After completing those, I intend to work on an MLOps related project.
+I completed a PhD in Applied Mathematics (back in early 2021) and recently transitioned to Data Science. During my learning process, I developed strong interests in data-driven solutions. Learning about statistical modeling, deep learning, supervised and unsupervised learning really piqued my interest. I am currently working learning and building a project in NLP (sentiment analysis). After that I plan to work on recommender systems, and then a project on LLMs. After completing those, I intend to work on an MLOps related project.
 
 #### Data Science journey so far...
 
-Despite being three months old in working with data related tools, I highlight some of the projects I have completed at a coding bootcamp in my pinned repositories below this profile intro. Some of those projects encompass using relational database (PostgreSQL) to acquire insights from raw unprocessed data, data analytics and visualization using Tableau software, statistical modeling, supervised learning and unsupervised learning using various python libraries.
+I highlight some of the projects I have completed at a coding bootcamp in my pinned repositories below this profile intro. Some of those projects encompass using relational database (PostgreSQL) to acquire insights from raw unprocessed data, data analytics and visualization using Tableau software, statistical modeling, supervised learning and unsupervised learning using various python libraries.
 
-The work I am most proud of is the capstone project which was the classification of traffic road signs in Alberta province using one shot learning technique and transfer learning. You can view the repository [here](https://github.com/samuelsurulere/image-classification-of-road-signs/). Another project I really enjoyed working on was the predictive policing model for crime hotspots in Los Angeles. My partner and I wanted to include a predictive policing model in our midterm project and didn't have any exposure to multiple multi-class categorical features. It was a steep learning curve which you can view [here](https://github.com/vangalasusmi/Mid-term-Project).
+The work I am currently most proud of is the capstone project which is the image classification of traffic road signs in Alberta province using one shot learning technique and transfer learning. You can view the repository [here](https://github.com/samuelsurulere/image-classification-of-road-signs/). Another project I really enjoyed working on was the predictive policing model for crime hotspots in Los Angeles. My partner and I wanted to include a predictive policing model in our midterm project and didn't have any exposure to modeling multiple multi-class categorical features. It was a steep learning curve which you can view [here](https://github.com/vangalasusmi/Mid-term-Project).
 
 ### Previous background
 
-All my previous professional experience has been in academia (teaching, lecturing, tutoring or researching). I am currently a casual Math & Science instructor at Momentum Calgary and very much open to new adventures.
+All my previous professional experience has been in academia (teaching, lecturing, tutoring or researching). I am currently a casual Math & Science instructor at Momentum Calgary but very much open to new adventures.
 
 ### Tech stack
 
@@ -32,7 +32,7 @@ These are some of the tech stacks I have learned and have proficiency in:
 
 ### Future roles
 
-I am currently open to positions and will like data science roles, machine learning roles. AI Engineer roles or ML Engineer roles can also be an option for me. I bring with me a solid analytical background, critical problem solving skills, the ability to solve complex problem (with little or no supervision), independent research capabilities. 
+I am currently open to positions and will like data science roles, machine learning roles. I bring with me a solid analytical background, critical problem solving skills, the ability to solve complex problem (with little or no supervision), independent research capabilities. 
 
 ### GitHub activity
 
