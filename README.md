@@ -1,6 +1,6 @@
 ### Hi there, my name is **Samuel** 👋! It is a delight to have you visiting.
 
-I completed a PhD in Applied Mathematics (back in early 2021) and recently transitioned to Data Science. During my learning process, I developed strong interests in data-driven solutions. Learning about statistical modeling, deep learning, supervised and unsupervised learning really piqued my interest. I am currently learning and building a project in NLP (sentiment analysis). After that I plan to work on recommender systems, and then a project on LLMs.
+I recently transitioned to Data Science from a solid background in Applied Mathematics. During my learning process, I developed strong interests in data-driven solutions. Learning about statistical modeling, deep learning, supervised and unsupervised learning really piqued my interest. I am currently learning and building a project in NLP (sentiment analysis). After that I plan to work on recommender systems, and then a project on LLMs.
 
  - **Update**: I recently completed the sentiment analysis project on NLP, you can view the repo [here](https://github.com/samuelsurulere/Sentiment-Analysis/). I also completed the recommender engines project, it is available for viewing [here](https://github.com/samuelsurulere/Recommender-Engines)
 
