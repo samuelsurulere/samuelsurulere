@@ -8,7 +8,7 @@ After investing years of hardwork and mnetal exertion in academia, I felt it was
 
 ### Previous background
 
-I have an extensive teaching experience as well as a solid background in Applied Mathematics.
+I have an extensive teaching experience as well as a solid research background in Applied Mathematics. This is my [Google Scholar profile](https://scholar.google.com/citations?user=Cu-AZD4AAAAJ&hl=en) if you'd like to see some of the publications I am proud of ;).
 
 ### Tech stack
 
