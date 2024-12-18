@@ -28,7 +28,7 @@ These are some of the tech stacks I have learned and have proficiency in:
   
 </p>
 
-### Future roles
+### Let's connect (on [LinkedIn](https://www.linkedin.com/in/samuelsurulere/))
 
 I am currently open to collaborations, sharing inspiring stories about transitioning to tech and also getting to know each other. I would love to connect.
 
