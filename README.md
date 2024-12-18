@@ -1,6 +1,6 @@
 ### Hi there, my name is **Samuel** 👋! It is a delight to have you visiting.
 
-I transitioned to Data Science from a solid background in Applied Mathematics. During my learning process, I developed strong interests in data-driven solutions. I have been working as a Machine Learning Engineer with DataGap Analytics but made the final decision to fully transition into Data Science after landing in Canada in 2023. Given that a Canadian degree/certificate would make employers trust the competencies of professional immigrants, I decided to attend the Lighthouse Labs bootcamp. After that, I landed a role at Pixeltree Inc.
+I transitioned to Data Science from a solid background in Applied Mathematics. I have been working as a Machine Learning Engineer with DataGap Analytics but made the final decision to fully transition into Data Science after landing in Canada in 2023. During my intermediate experience and learning on the job, I developed strong interests in data-driven solutions. Given that a Canadian degree/certificate would make employers trust the competencies of professional immigrants, I decided to attend the Lighthouse Labs bootcamp. After that, I landed a role at Pixeltree Inc.
 
 #### Data Science journey so far...
 
