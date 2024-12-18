@@ -1,18 +1,14 @@
 ### Hi there, my name is **Samuel** 👋! It is a delight to have you visiting.
 
-I recently transitioned to Data Science from a solid background in Applied Mathematics. During my learning process, I developed strong interests in data-driven solutions. Learning about statistical modeling, deep learning, supervised and unsupervised learning really piqued my interest. I am currently learning and building a project in NLP (sentiment analysis). After that I plan to work on recommender systems, and then a project on LLMs.
-
- - **Update**: I recently completed the sentiment analysis project on NLP, you can view the repo [here](https://github.com/samuelsurulere/Sentiment-Analysis/). I also completed the recommender engines project, it is available for viewing [here](https://github.com/samuelsurulere/Recommender-Engines)
+I transitioned to Data Science from a solid background in Applied Mathematics. During my learning process, I developed strong interests in data-driven solutions. I have been working as a Machine Learning Engineer with DataGap Analytics but made the final decision to fully transition into Data Science after landing in Canada in 2023. Given that a Canadian degree/certificate would make employers trust the competencies of professional immigrants, I decided to attend the Lighthouse Labs bootcamp. After that, I landed a role at Pixeltree Inc.
 
 #### Data Science journey so far...
 
-I highlight some of the projects I have completed at a coding bootcamp in my pinned repositories below this profile intro. Some of those projects encompass using relational database (PostgreSQL) to acquire insights from raw unprocessed data, data analytics and visualization using Tableau software, statistical modeling, supervised learning and unsupervised learning using various python libraries.
-
-The work I am currently most proud of is the capstone project which is the image classification of traffic road signs in Alberta province using one shot learning technique and transfer learning. You can view the repository [here](https://github.com/samuelsurulere/image-classification-of-road-signs/). Another project I really enjoyed working on was the predictive policing model for crime hotspots in Los Angeles. My partner and I wanted to include a predictive policing model in our midterm project and didn't have any exposure to modeling multiple multi-class categorical features. It was a steep learning curve which you can view [here](https://github.com/vangalasusmi/Mid-term-Project).
+After investing years of hardwork and mnetal exertion in academia, I felt it was time to transition to Data Science (ML and NLP) in particular. This is because I am quite passionate about solving real-world problems. But as much as I loved academia, I was only solving theoretical problems.
 
 ### Previous background
 
-All my previous professional experience has been in academia (teaching, lecturing, tutoring or researching). I am currently a casual Math & Science instructor at Momentum Calgary but very much open to new adventures.
+I have an extensive teaching experience as well as a solid background in Applied Mathematics.
 
 ### Tech stack
 
@@ -34,7 +30,7 @@ These are some of the tech stacks I have learned and have proficiency in:
 
 ### Future roles
 
-I am currently open to positions and will like data science roles, machine learning roles. I bring with me a solid analytical background, critical problem solving skills, the ability to solve complex problem (with little or no supervision), independent research capabilities. 
+I am currently open to collaborations, sharing inspiring stories about transitioning to tech and also getting to know each other. I would love to connect.
 
 ### GitHub activity
 
