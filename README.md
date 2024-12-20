@@ -1,10 +1,10 @@
 ### Hi there, my name is **Samuel** 👋! It is a delight to have you visiting.
 
-I transitioned to Data Science from a solid background in Applied Mathematics. I have been working as a Machine Learning Engineer with DataGap Analytics while working as an academic researcher. I made the final decision to fully transition into Data Science after landing in Canada in 2023. During my intermediate experience and learning on the job, I developed strong interests in data-driven solutions. Given that a Canadian degree/certificate would make employers trust the competencies of professional immigrants, I decided to attend the Lighthouse Labs bootcamp. After that, I landed a role at Pixeltree Inc.
+I transitioned to Data Science from a solid background in Applied Mathematics. I was working as a Machine Learning Engineer with DataGap Analytics while working as an academic researcher. Because, I was inbetween the options of establishing a career in academia versus industry. I made the final decision to fully transition into Data Science after landing in Canada in 2023. During my intermediate experience and learning on the job, I developed strong interests in data-driven solutions. Given that a Canadian degree/certificate would make employers trust the competencies of professional immigrants, I attended the Lighthouse Labs bootcamp. The bootcamp was so intense, it served as a refresher for some of the skills I have and I also learnt quite a lot. After that intense bootcamp, I landed a role at Pixeltree Inc.
 
 #### Data Science journey so far...
 
-After investing years of hardwork and mental exertion in academia, I felt it was time to transition to Data Science (ML and NLP) in particular. This is because I am quite passionate about solving real-world problems. But as much as I loved academia, I was only solving theoretical problems.
+After investing years of hardwork and mental exertion in academia, I felt it was time to fully establish a professional career in Data Science (ML and NLP) in particular. A lifelong passion has always been "solving real-world problems using science". Academia (my research line in particular) was limited in that regard. As much as I loved academia, I was only solving theoretical problems with theoretical analysis and recommendations.
 
 ### Previous background
 
@@ -12,7 +12,7 @@ I have an extensive teaching experience as well as a solid research background i
 
 ### Tech stack
 
-These are some of the tech stacks I have learned and have proficiency in:
+These are some of the tech stacks I have proficiency in:
 
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" alt="python" width="45" height="45"/>
@@ -28,9 +28,9 @@ These are some of the tech stacks I have learned and have proficiency in:
   
 </p>
 
-### Let's connect (on [LinkedIn](https://www.linkedin.com/in/samuelsurulere/))
+### Let's connect, [LinkedIn](https://www.linkedin.com/in/samuelsurulere/)
 
-I am currently open to collaborations, sharing inspiring stories about transitioning to tech and also getting to know each other. I would love to connect.
+I am currently open to collaborations, sharing inspiring stories about transitioning to tech and also getting to know each other. Would love to connect.
 
 ### GitHub activity
 
