@@ -4,7 +4,7 @@ I transitioned to Data Science from a solid background in Applied Mathematics. I
 
 #### Data Science journey so far...
 
-After investing years of hardwork and mental exertion in academia, I felt it was time to fully establish a professional career in Data Science (ML and NLP) in particular. A lifelong passion has always been "solving real-world problems using science". Academia (my research line in particular) was limited in that regard. As much as I loved academia, I was only solving theoretical problems with theoretical analysis and recommendations.
+After investing years of hardwork in academia, I felt it was time to fully establish a professional career in Data Science (ML and NLP in particular). A lifelong passion has always been "solving real-world problems using science". My area of research interest (as well as most research I was aware of) was limited in that regard. As much as I loved academia, I was solving theoretical problems by providing analysis and recommendations.
 
 ### Previous background
 
